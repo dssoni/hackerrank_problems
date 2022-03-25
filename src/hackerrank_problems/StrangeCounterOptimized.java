@@ -17,6 +17,6 @@ public class StrangeCounterOptimized {
 	}
 
 	public static void main(String args[]) {
-		System.out.println(strangeCounter(46));
+		System.out.println(strangeCounter(3253533335223553l));
 	}
 }
